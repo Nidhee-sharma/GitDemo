@@ -7,7 +7,7 @@ print(values[1:3])
 values.insert(3,"shetty") #
 print(values)
 values.append("End")
-
+values[3] ="Nidhee"
 values[2]="RAHUL"
 print(values)
 del values[0]
