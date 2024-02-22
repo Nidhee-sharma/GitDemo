@@ -1,0 +1,6 @@
+abc
+bca
+cba
+a
+b
+dogcat
